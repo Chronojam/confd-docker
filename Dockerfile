@@ -3,6 +3,7 @@ MAINTAINER Calum Gardner <calumgardner23@gmail.com>
 
 RUN apk update
 RUN apk add git
+RUN apk add curl
 RUN go get github.com/kelseyhightower/confd
 
 ENTRYPOINT ["confd"]
