@@ -1,3 +1,5 @@
+[![Docker Repository on Quay](https://quay.io/repository/chronojam/confd/status "Docker Repository on Quay")](https://quay.io/repository/chronojam/confd)
+
 # Confd
 
 ## Motivation
